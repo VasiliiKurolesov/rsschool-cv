@@ -2,6 +2,8 @@
 
 # Ihor Kravchenko
 
+![image](./image/my_photo.jpg)
+
 ### My contacts:
 
 - Tel: +380637908405
@@ -26,6 +28,18 @@ I'm:
 
 ### Code
 
+```
+function countSheeps(arrayOfSheep) {
+  let sheep = 0; // set value once before counting
+  for (let i = 0; i < arrayOfSheep.length; i++ ) {
+    if (arrayOfSheep === true) {
+      sheep++; // increment value of sheep variable
+    }
+  }
+  return sheep; // return the cound in the sheep variable as your function return value
+}
+```
+
 ### Work experience
 
 I am just learning.
@@ -36,4 +50,4 @@ Ukrainian state university of railway transport, 2011-2015.
 
 ### Languages
 
-English - A1.
+English - A2.
