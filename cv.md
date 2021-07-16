@@ -7,7 +7,7 @@
 ### My contacts:
 
 - Tel: +380637908405
-- Telegram: @IhorKravchenk0
+- Telegram: @Ihor_Kravchenk0
 
 ### About me:
 
